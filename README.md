@@ -1,2 +1,2 @@
-# ravikumar-phy18
-Modeling of Infectious Disease
+# Modeling of Infectious Disease
+-ravikumar
